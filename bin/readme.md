@@ -1,2 +1,2 @@
-# Bin
+# bin
 contains class sctructures
