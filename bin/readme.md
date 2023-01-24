@@ -1,2 +1,0 @@
-# bin
-contains class sctructures
